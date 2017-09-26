@@ -112,3 +112,16 @@
     margin-top: $banner-footer-margin-top-sm;
   }
 }
+
+// Lightslider
+
+.lSSlideOuter .lSPager.lSpg > li a {
+  background-color: $banner-pager-color-default;
+  height: $banner-pager-diameter;
+  width: $banner-pager-diameter;
+}
+
+.lSSlideOuter .lSPager.lSpg > li.active a,
+.lSSlideOuter .lSPager.lSpg > li:hover a {
+  background-color: $banner-pager-color-active;
+}
