@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-banner-lightslider",
+  "authors": [
+    "Leo Pitt <leopitt@function-design.co.uk>"
+  ],
+  "description": "SASS component for bootstrap to produce a text and bg img banner with lightslider capability.",
+  "main": "",
+  "keywords": [
+    "bootstrap",
+    "lightslider",
+    "sass"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/leopitt/bootstrap-banner-lightslider",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "lightslider": "^1.1.6"
+  }
+}
