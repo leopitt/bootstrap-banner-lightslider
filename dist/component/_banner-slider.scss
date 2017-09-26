@@ -79,6 +79,26 @@
   }
 }
 
+@include breakpoint-min($screen-md) {
+  .banner .title {
+    font-size: $font-size-banner-title-md;
+  }
+
+  .banner .subtitle {
+    font-size: $font-size-banner-subtitle-md;
+  }
+}
+
+@include breakpoint-min($screen-lg) {
+  .banner .title {
+    font-size: $font-size-banner-title-lg;
+  }
+
+  .banner .subtitle {
+    font-size: $font-size-banner-subtitle-lg;
+  }
+}
+
 .banner-image {
   width: 100%;
 }

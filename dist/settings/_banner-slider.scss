@@ -17,7 +17,16 @@ $banner-copy-padding-lg: 60px 33%;
 
 $banner-copy-color: #fff;
 
-$font-size-banner-title-default: $font-size-h2;
-$font-size-banner-subtitle-default: $font-size-h3;
-$font-size-banner-title-sm: $font-size-h1;
-$font-size-banner-subtitle-sm: $font-size-h2;
+$font-size-banner-title-default: $font-size-h3;
+$font-size-banner-subtitle-default: $font-size-h4;
+$font-size-banner-title-sm: $font-size-h3;
+$font-size-banner-subtitle-sm: $font-size-h4;
+$font-size-banner-title-md: $font-size-h2 !default;
+$font-size-banner-subtitle-md: $font-size-h3 !default;
+$font-size-banner-title-lg: $font-size-h1 !default;
+$font-size-banner-subtitle-lg: $font-size-h2 !default;
+
+// Lightslider settings
+$banner-pager-diameter: 12px;
+$banner-pager-color-default: rgba(255,255,255,.5);
+$banner-pager-color-active: rgb(255,255,255);
