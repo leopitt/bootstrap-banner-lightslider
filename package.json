@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-banner-lightslider",
+  "version": "1.2.2",
+  "description": "SASS component for bootstrap to produce a text and bg img banner with lightslider capability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopitt/bootstrap-banner-lightslider.git"
+  },
+  "author": "Leo Pitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopitt/bootstrap-banner-lightslider/issues"
+  },
+  "homepage": "https://github.com/leopitt/bootstrap-banner-lightslider#readme"
+}
